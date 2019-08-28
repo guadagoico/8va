@@ -16,13 +16,17 @@ h1 {
     margin-left: 100px;
    }
 
-p {
-    display: inline-block;
-    font-weight: 500;
-    position: absolute;
-    right: 15px;
+.menumenu{
+position: absolute;
+right: 200px;
+top:15px;
 }
 
+.menupalabra{
+    display: inline-block;
+    font-weight: 500;
+    margin-left: 10%;
+}
 
 .main {
     background-color: #1abc9c;
@@ -43,11 +47,10 @@ img {
 .portfolio {
     padding-top: 40px;
     color: #343a40;
-    text-align: center;
+   text-align: center;
     font-weight: bold;
     font-size: 40px;
     display: inline-block;
-
 }
 
 hr {
@@ -67,7 +70,7 @@ hr {
 .linea2{
     height: 2px;
     width: 90px;
-     background-color: #fff;
+    background-color: #fff;
 }
 
 .texto1 {
